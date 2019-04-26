@@ -1,0 +1,45 @@
+header {
+  padding: 5px;
+  text-align: center;
+  background-color: #1B3A4F;
+  font-family: calibri;
+  color: #EAEAEA;
+}
+
+body {
+  background-color: #EAEAEA;
+  color: #1B3A4F;
+  font-family: calibri;
+}
+
+h1, h3 {
+  text-transform: uppercase;
+}
+
+.right {
+  float: right;
+  position: relative;
+  right: 320px;
+  bottom: 575px;
+  width: 650px;
+}
+
+div {
+  display: ;
+  width: 600px;
+  word-wrap: normal;
+  padding: 20px 20px 80px 100px;
+}
+
+.left {
+  width: 270px;
+}
+
+p {
+  margin-bottom: -10px;
+}
+
+h3 {
+  margin-top: 40px;
+  margin-bottom: 8px;  
+}
